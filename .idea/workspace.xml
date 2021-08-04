@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c79fbc8-dcb1-4787-9d3d-d61e29e94042" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s4nJBaLy3udwhvx0MsoDknyfC8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Shell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shell" />
+      <module name="Matrix Multiplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Shell" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c79fbc8-dcb1-4787-9d3d-d61e29e94042" name="Default Changelist" comment="" />
+      <created>1620140655070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620140655070</updated>
+      <workItem from="1620140659337" duration="2193000" />
+      <workItem from="1620248030917" duration="6235000" />
+      <workItem from="1620301037493" duration="4625000" />
+      <workItem from="1620740524127" duration="16213000" />
+      <workItem from="1621337806493" duration="26525000" />
+      <workItem from="1621798724470" duration="6571000" />
+      <workItem from="1621853391943" duration="15261000" />
+      <workItem from="1628075158331" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1621338169274">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="222" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.40.1280.680@0.40.1280.680" timestamp="1621338169274" />
+    <state width="1237" height="241" key="GridCell.Tab.0.bottom" timestamp="1628075236538">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.bottom/0.40.1280.680@0.40.1280.680" timestamp="1628075236538" />
+    <state width="1237" height="241" key="GridCell.Tab.0.center" timestamp="1628075236538">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.center/0.40.1280.680@0.40.1280.680" timestamp="1628075236538" />
+    <state width="1237" height="241" key="GridCell.Tab.0.left" timestamp="1628075236538">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.left/0.40.1280.680@0.40.1280.680" timestamp="1628075236538" />
+    <state width="1237" height="241" key="GridCell.Tab.0.right" timestamp="1628075236538">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.right/0.40.1280.680@0.40.1280.680" timestamp="1628075236538" />
+    <state x="297" y="171" key="run.anything.popup" timestamp="1621514814567">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="297" y="171" key="run.anything.popup/0.40.1280.680/1920.40.1920.1040@0.40.1280.680" timestamp="1620308556148" />
+    <state x="297" y="171" key="run.anything.popup/0.40.1280.680@0.40.1280.680" timestamp="1621514814567" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1621859733740">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.40.1280.680/1920.40.1920.1040@0.40.1280.680" timestamp="1620249297062" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.40.1280.680@0.40.1280.680" timestamp="1621859733740" />
+  </component>
+</project>
